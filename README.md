@@ -8,3 +8,9 @@ Features:
 .Interactive features like movie browsing, trailer playback, and movie suggestions.
 .Customizable movie categories and content.
 
+Contact
+If you have any questions or would like to reach out to me regarding the projects or any other matter, you can contact me at:
+
+Email: humeraaa08@gmail.com
+LinkedIn: Humera A
+Thank you for visiting this repository.
